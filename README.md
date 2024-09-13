@@ -26,10 +26,6 @@
 - 🚀 Aspiring to revolutionize industries through data-driven solutions
 - 🌐 Love to collaborate on innovative projects
 - 📊 Transforming complex datasets into compelling visualizations
-- 🏆 Achieved 4/4 CGPA in BSCS
-- 🌍 Participated in 6+ international events and hackathons
-- 🧮 Solved 170+ LeetCode problems
-- 🏅 Won speed programming competition at Beacon House International College
 
 ## 🛠 Skill Set:
 
