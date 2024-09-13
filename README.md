@@ -1,9 +1,5 @@
 # Hi, I'm Shivam Dali (SVD) 👨‍💻🚀
 
-<p align="center">
-  <img src="https://github.com/svdexe/svdexe/blob/main/header.gif" alt="SVD Header" width="100%">
-</p>
-
 <pre>
                                   ___           ___           ___       ___       ___     
                                  /\__\         /\  \         /\__\     /\__\     /\  \    
@@ -66,42 +62,26 @@
 
 ## 🚀 Featured Projects
 
+#### Current Focus:
+##### Continuous education in Data Science and AI:
+ 
 <div align="center">
   <a href="https://github.com/svdexe/PowerBI-MySQL-HR_Dashboard">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=PowerBI-MySQL-HR_Dashboard&theme=nord" alt="HR Analytics Dashboard">
   </a>
+  
   <a href="https://github.com/svdexe/NLP_TextSummarizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=NLP_TextSummarizer&theme=nord" alt="Text Summarization NLP Project">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=NLP_TextSummarizer&theme=nord" alt="NLP Text Summarizer">
   </a>
-</div>
 
-<div align="center">
   <a href="https://github.com/svdexe/Chicken_Disease_Classification">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Chicken_Disease_Classification&theme=nord" alt="Chicken Disease Classification">
   </a>
+  
+  <!-- You can add more project cards here as needed -->
 </div>
 
-## 📊 GitHub Stats:
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=svdexe&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svdexe&layout=compact&langs_count=8&theme=nord"/>
-</p>
-
-## 🔥 GitHub Streak
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svdexe&theme=nord" alt="svdexe" />
-</p>
-
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=svdexe&theme=nord&no-frame=true&no-bg=true&margin-w=4" alt="svdexe trophies" />
-</p>
-
-## 📈 Contribution Graph
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=svdexe&theme=nord" alt="Contribution Graph" />
-</p>
-
+<br>
 ## 🌐 Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/shivam-dali-86b0a1201/" target="_blank">
@@ -131,10 +111,6 @@
 <h3 align="center">💻 Check Out My Repos ⬇️</h3>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=svdexe&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="svdexe" />
-</p>
 
 <p align="center">
   <i>"Data is the new oil. It's valuable, but if unrefined it cannot really be used."</i>
