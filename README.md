@@ -64,11 +64,9 @@
 
 #### Current Focus:
 ##### Continuous education in Data Science and AI:
+
  
-<div align="center">
-  <a href="https://github.com/svdexe/PowerBI-MySQL-HR_Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=PowerBI-MySQL-HR_Dashboard&theme=nord" alt="HR Analytics Dashboard">
-  </a>
+
   
   <a href="https://github.com/svdexe/NLP_TextSummarizer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=NLP_TextSummarizer&theme=nord" alt="NLP Text Summarizer">
@@ -80,6 +78,8 @@
   
   <!-- You can add more project cards here as needed -->
 </div>
+
+<br>
 
 <br>
 ## 🌐 Connect with me:
