@@ -96,7 +96,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=svdexe&theme=nord&column=7&no-frame=true&no-bg=true&margin-w=15" alt="svdexe" />
+    <img src="https://github-profile-trophy.vercel.app/?username=svdexe&theme=nord&column=8&no-frame=true&no-bg=true&margin-w=15" alt="svdexe" />
   </a>
 </p>
 
