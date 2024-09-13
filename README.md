@@ -75,6 +75,10 @@
   <a href="https://github.com/svdexe/Chicken_Disease_Classification">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Chicken_Disease_Classification&theme=nord" alt="Chicken Disease Classification">
   </a>
+
+  <a href="https://github.com/svdexe/PowerBI-MySQL-HR_Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=PowerBI-MySQL-HR_Dashboard&theme=nord" alt="PowerBI-MySQL-HR_Dashboard">
+  </a>
   
   <!-- You can add more project cards here as needed -->
 </div>
@@ -82,7 +86,7 @@
 <br>
 
 <br>
-## 🌐 Connect with me:
+🌐 Connect with me:
 <p align="center">
   <a href="https://www.linkedin.com/in/shivam-dali-86b0a1201/" target="_blank">
     <img src="https://img.shields.io/badge/-Shivam%20Dali-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
@@ -97,9 +101,9 @@
 
 ## 📚 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Future of AI: Trends and Innovations](https://medium.com/@SVD.exe/exploring-the-future-of-ai-trends-and-innovations)
-- [Data Science Best Practices: From Collection to Deployment](https://medium.com/@SVD.exe/data-science-best-practices-from-collection-to-deployment)
-- [Machine Learning Algorithms Explained: A Beginner's Guide](https://medium.com/@SVD.exe/machine-learning-algorithms-explained-a-beginners-guide)
+- [MLOps-Driven NLP for Intelligent Text Condensation with AWS and GitHub Actions Integration](https://medium.com/@SVD.exe/end-to-end-text-summarization-nlp-project-with-aws-deployment-8e2d18b6caa7)
+- [Unveiling HR Insights: An Analytics Dashboard Built with SQL and Power BI](https://medium.com/@SVD.exe/unveiling-hr-insights-an-analytics-dashboard-built-with-sql-and-power-bi-822abb6fd2dd)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Goals for 2024
