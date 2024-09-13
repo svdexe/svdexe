@@ -1,13 +1,21 @@
 # Hi, I'm Shivam Dali (SVD) 👨‍💻🚀
 
+<p align="center">
+  <img src="https://github.com/svdexe/svdexe/blob/main/header.gif" alt="SVD Header" width="100%">
+</p>
+
 <pre>
-                   ___     __   __   ___  
-                  / __\   / /   \ \ / _ \ 
-                 / /     / /     \ / /_)/
-                / /___  / /___    / /_)\ 
-                \____/  \____/   /_/ \_\
-                                        
-     Data Science | Machine Learning | AI Enthusiast
+                                  ___           ___           ___       ___       ___     
+                                 /\__\         /\  \         /\__\     /\__\     /\  \    
+                                /:/  /        /::\  \       /:/  /    /:/  /    /::\  \   
+                               /:/__/        /:/\:\  \     /:/  /    /:/  /    /:/\:\  \  
+                              /::\  \ ___   /::\~\:\  \   /:/  /    /:/  /    /:/  \:\  \ 
+                             /:/\:\  /\__\ /:/\:\ \:\__\ /:/__/    /:/__/    /:/__/ \:\__\
+                             \/__\:\/:/  / \:\~\:\ \/__/ \:\  \    \:\  \    \:\  \ /:/  /
+                                  \::/  /   \:\ \:\__\    \:\  \    \:\  \    \:\  /:/  / 
+                                  /:/  /     \:\ \/__/     \:\  \    \:\  \    \:\/:/  /  
+                                 /:/  /       \:\__\        \:\__\    \:\__\    \::/  /   
+                                 \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
 
 ## 🧠 About Me:
@@ -28,7 +36,7 @@
 <table>
   <tr>
     <td valign="top" width="33%">
-      <h3>Data Science & ML</h3>
+      <h3 align="center">Data Science & ML</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" />
         <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white" />
@@ -38,7 +46,7 @@
       </div>
     </td>
     <td valign="top" width="33%">
-      <h3>Data Visualization</h3>
+      <h3 align="center">Data Visualization</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/-Matplotlib-11557c?style=flat" />
         <img src="https://img.shields.io/badge/-Seaborn-3776AB?style=flat" />
@@ -48,7 +56,7 @@
       </div>
     </td>
     <td valign="top" width="33%">
-      <h3>Tools & Technologies</h3>
+      <h3 align="center">Tools & Technologies</h3>
       <div align="center">
         <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
@@ -62,43 +70,40 @@
 
 ## 🚀 Featured Projects
 
-### 1. HR Analytics Dashboard
-- Built an interactive HR Analytics Dashboard using SQL and Power BI
-- Analyzed employee demographics, attrition, and department-specific metrics
-- Technologies: SQL, Power BI, Data Cleaning, Data Visualization
-- [View Project](https://github.com/svdexe/PowerBI-MySQL-HR_Dashboard)
+<div align="center">
+  <a href="https://github.com/svdexe/PowerBI-MySQL-HR_Dashboard">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=PowerBI-MySQL-HR_Dashboard&theme=nord" alt="HR Analytics Dashboard">
+  </a>
+  <a href="https://github.com/svdexe/NLP_TextSummarizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=NLP_TextSummarizer&theme=nord" alt="Text Summarization NLP Project">
+  </a>
+</div>
 
-### 2. End-to-end Text Summarization NLP Project
-- Developed a text summarization tool using advanced NLP techniques
-- Implemented cloud-based deployment on AWS with CI/CD pipeline
-- Technologies: Python, HuggingFace Transformers, FastAPI, Docker, AWS
-- [View Project](https://github.com/svdexe/NLP_TextSummarizer)
-
-### 3. Chicken Disease Classification
-- Created a CNN-based image classification system for chicken disease detection
-- Implemented full ML pipeline from data ingestion to model deployment
-- Technologies: TensorFlow, Transfer Learning, AWS, Azure, GitHub Actions
-- [View Project](https://github.com/svdexe/Chicken_Disease_Classification)
+<div align="center">
+  <a href="https://github.com/svdexe/Chicken_Disease_Classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Chicken_Disease_Classification&theme=nord" alt="Chicken Disease Classification">
+  </a>
+</div>
 
 ## 📊 GitHub Stats:
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=svdexe&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svdexe&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=svdexe&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svdexe&layout=compact&langs_count=8&theme=nord"/>
 </p>
 
 ## 🔥 GitHub Streak
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svdexe&theme=radical" alt="svdexe" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=svdexe&theme=nord" alt="svdexe" />
 </p>
 
 ## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=svdexe&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="svdexe trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=svdexe&theme=nord&no-frame=true&no-bg=true&margin-w=4" alt="svdexe trophies" />
 </p>
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=svdexe&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=svdexe&theme=nord" alt="Contribution Graph" />
 </p>
 
 ## 🌐 Connect with me:
@@ -139,4 +144,8 @@
   <i>"Data is the new oil. It's valuable, but if unrefined it cannot really be used."</i>
   <br>
   - Clive Humby
+</p>
+
+<p align="center">
+  <sub>Created with 🧠 by Shivam Dali</sub>
 </p>
