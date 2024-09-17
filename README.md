@@ -115,6 +115,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [MLOps-Driven NLP for Intelligent Text Condensation with AWS and GitHub Actions Integration](https://medium.com/@SVD.exe/end-to-end-text-summarization-nlp-project-with-aws-deployment-8e2d18b6caa7)
 - [Unveiling HR Insights: An Analytics Dashboard Built with SQL and Power BI](https://medium.com/@SVD.exe/unveiling-hr-insights-an-analytics-dashboard-built-with-sql-and-power-bi-822abb6fd2dd)
+- [Chicken Disease Classification: AI-Powered Poultry Health Detector](https://medium.com/@SVD.exe/chicken-disease-classification-a-deep-learning-approach-to-poultry-health-32d17b8033d7)
+- 
 <!-- BLOG-POST-LIST:END -->
 
 ## 🎯 Goals for 2024
