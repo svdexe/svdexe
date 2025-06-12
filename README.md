@@ -60,17 +60,16 @@
 
 <div align="center">
   <a href="https://github.com/svdexe/NLP_TextSummarizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=NLP_TextSummarizer&theme=nord" alt="NLP Text Summarizer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=NLP_TextSummarizer&theme=nord&cache_seconds=0" alt="NLP Text Summarizer">
   </a>
-
   <a href="https://github.com/svdexe/Chicken_Disease_Classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Chicken_Disease_Classification&theme=nord" alt="Chicken Disease Classification">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Chicken_Disease_Classification&theme=nord&cache_seconds=0" alt="Chicken Disease Classification">
   </a>
-
   <a href="https://github.com/svdexe/PowerBI-MySQL-HR_Dashboard">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=PowerBI-MySQL-HR_Dashboard&theme=nord" alt="PowerBI-MySQL-HR_Dashboard">
   </a>
 </div>
+
 
 ## 📊 GitHub Stats:
 <p align="center">
