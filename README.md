@@ -14,130 +14,324 @@
                                  \/__/         \/__/         \/__/     \/__/     \/__/    
 </pre>
 
-## 🧠 About Me:
+<div align="center">
 
-- 🎓 Currently pursuing a Master's in Data Science at Adelaide University
-- 💡 Passionate about turning data into actionable insights
-- 🌟 Constantly exploring new technologies in AI and ML
-- 🚀 Aspiring to revolutionize industries through data-driven solutions
-- 🌐 Love to collaborate on innovative projects
-- 📊 Transforming complex datasets into compelling visualizations
+#### 🎯 Master's in Data Science | University of Adelaide 🇦🇺
+#### 💼 Data Scientist | ML Engineer | Power BI Certified (PL-300)
 
-## 🛠 Skill Set:
+<a href="https://portfolio-svd-v1.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-More%20About%20Me-2962FF?style=flat-square&logoColor=white" height="32"/>
+</a>
 
+<a href="https://linkedin.com/in/shivam-dali-86b0a1201" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="25"/>
+</a>
+<a href="https://medium.com/@SVD.exe" target="_blank">
+  <img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white" height="25"/>
+</a>
+<a href="https://github.com/svdexe" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="25"/>
+</a>
+<a href="mailto:shivamdali@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="25"/>
+</a>
+
+</div>
+
+---
+
+## 🧠 About Me
+
+<div align="center">
 <table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Data Science & ML</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch&perline=4" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Data Visualization</h3>
-      <div align="center">
-        <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-        <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/>
-        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power-bi" width="40" height="40"/>
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Tools & Technologies</h3>
-      <div align="center">
-        <img src="https://skillicons.dev/icons?i=git,docker,mysql,vscode&perline=4" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-        <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
-        <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/>
-      </div>
-    </td>
-  </tr>
+<tr>
+<td width="60%">
+
+**Transforming Complex Data into Actionable Business Insights**
+
+Graduate from University of Adelaide bridging the gap between complex data and business value. My journey from Electronics Engineering to Data Science has equipped me with unique problem-solving perspectives and strong technical foundations.
+
+**What I Bring:**
+- 🚀 End-to-end ML development & deployment
+- 📊 Advanced data visualization & business intelligence  
+- ☁️ Cloud deployment expertise (AWS)
+- 🔍 Strong analytical thinking & collaborative problem-solving
+- 📈 Power BI certified with industry-ready skills
+
+</td>
+<td width="40%">
+
+```python
+class ShivamDali:
+    def __init__(self):
+        self.role = "Data Scientist & ML Engineer"
+        self.location = "Adelaide, AU 🇦🇺"
+        self.education = "M.Sc. Data Science"
+        self.certification = "Power BI (PL-300)"
+        
+    def expertise(self):
+        return {
+            "research_complete": ["PSO", "APSO", "Clustering"],
+            "deployment": ["AWS", "Docker", "FastAPI"],
+            "web_apps": ["Flask", "Streamlit", "HTML/CSS/JS"],
+            "analytics": ["Power BI", "SQL", "Tableau"]
+        }
+```
+
+</td>
+</tr>
 </table>
+</div>
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+</div>
 
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/svdexe/NLP_TextSummarizer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=NLP_TextSummarizer&theme=nord&cache_seconds=0" alt="NLP Text Summarizer">
-  </a>
-  <a href="https://github.com/svdexe/Chicken_Disease_Classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Chicken_Disease_Classification&theme=nord&cache_seconds=0" alt="Chicken Disease Classification">
-  </a>
-  <a href="https://github.com/svdexe/PowerBI-MySQL-HR_Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=PowerBI-MySQL-HR_Dashboard&theme=nord" alt="PowerBI-MySQL-HR_Dashboard">
-  </a>
+
+**🔬 Research & Optimization**
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/svdexe/DS_RP_Part-B_ClusteringAnalysis_using_HeuristicOptimizationTechniques">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=DS_RP_Part-B_ClusteringAnalysis_using_HeuristicOptimizationTechniques&theme=nord&cache_seconds=0&hide_border=true" alt="Part B">
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/svdexe/Adaptive-Particle-Swarm-Optimization-on-CEC2017">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Adaptive-Particle-Swarm-Optimization-on-CEC2017&theme=nord&cache_seconds=0&hide_border=true" alt="Part A">
+</a>
+</td>
+</tr>
+</table>
+
+**🤖 Machine Learning & NLP**
+<table>
+<tr>
+<td width="33%">
+<a href="https://github.com/svdexe/NLP_TextSummarizer">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=NLP_TextSummarizer&theme=nord&cache_seconds=0&hide_border=true" alt="NLP">
+</a>
+</td>
+<td width="33%">
+<a href="https://github.com/svdexe/Chicken_Disease_Classification">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Chicken_Disease_Classification&theme=nord&cache_seconds=0&hide_border=true" alt="CNN">
+</a>
+</td>
+<td width="33%">
+<a href="https://github.com/svdexe/Movie_recommendation_system">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Movie_recommendation_system&theme=nord&cache_seconds=0&hide_border=true" alt="RecSys">
+</a>
+</td>
+</tr>
+</table>
+
+**📊 Business Intelligence**
+<table>
+<tr>
+<td width="50%">
+<a href="https://github.com/svdexe/PowerBI-Spotify-Data-Analysis">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=PowerBI-Spotify-Data-Analysis&theme=nord&cache_seconds=0&hide_border=true" alt="Spotify">
+</a>
+</td>
+<td width="50%">
+<a href="https://github.com/svdexe/PowerBI-MySQL-HR_Dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=PowerBI-MySQL-HR_Dashboard&theme=nord&cache_seconds=0&hide_border=true" alt="HR">
+</a>
+</td>
+</tr>
+</table>
+
+**🎯 Predictive Analytics**
+<table>
+<tr>
+<td width="33%">
+<a href="https://github.com/svdexe/Fare_flight_prediction">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Fare_flight_prediction&theme=nord&cache_seconds=0&hide_border=true" alt="Flight">
+</a>
+</td>
+<td width="33%">
+<a href="https://github.com/svdexe/IPL_Win_Probability_Prediction">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=IPL_Win_Probability_Prediction&theme=nord&cache_seconds=0&hide_border=true" alt="IPL">
+</a>
+</td>
+<td width="33%">
+<a href="https://github.com/svdexe/Book_Recommendation_System">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Book_Recommendation_System&theme=nord&cache_seconds=0&hide_border=true" alt="Books">
+</a>
+</td>
+</tr>
+</table>
+
 </div>
 
+## 📊 GitHub Analytics
 
-## 📊 GitHub Stats:
-<p align="center">
-    <a href="https://github.com/svdexe">
-        <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=svdexe&show_icons=true&theme=nord&include_all_commits=true&count_private=true&hide_border=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=svdexe&layout=compact&langs_count=8&theme=nord&include_all_commits=true&count_private=true&hide_border=true"/>
-    </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/svdexe">
-    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=svdexe&bg_color=2E3440&color=81A1C1&line=88C0D0&point=ECEFF4&area=true&hide_border=true"/>
-  </a> 
-</p>
+<img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=svdexe&show_icons=true&count_private=true&hide_border=true&title_color=5BCDEC&icon_color=5BCDEC&text_color=c9d1d9&bg_color=0d1117&hide_title=true&border_radius=10&card_width=350" />
+<img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svdexe&layout=compact&hide_border=true&title_color=5BCDEC&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide_title=true&border_radius=10&card_width=350" />
 
-<p align="center">
-   <a href="https://github.com/svdexe"> 
-     <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=svdexe&theme=nord&hide_border=true" />
-   </a>  
-</p>
+<br>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=svdexe&theme=nord&column=8&no-frame=true&no-bg=true&margin-w=15" alt="svdexe" />
-  </a>
-</p>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=svdexe&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true&height=350&custom_title=Contribution%20Activity&title_color=5BCDEC"/>
 
-## 🌐 Connect with me:
-<p align="center">
-  <a href="https://www.linkedin.com/in/shivam-dali-86b0a1201/" target="_blank">
-    <img src="https://img.shields.io/badge/-Shivam%20Dali-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/svdexe" target="_blank">
-    <img src="https://img.shields.io/badge/-svdexe-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
-  </a>
-  <a href="https://medium.com/@SVD.exe" target="_blank">
-    <img src="https://img.shields.io/badge/-@SVD.exe-12100E?style=for-the-badge&logo=Medium&logoColor=white"/>
-  </a>
-</p>
+<br>
 
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [MLOps-Driven NLP for Intelligent Text Condensation with AWS and GitHub Actions Integration](https://medium.com/@SVD.exe/end-to-end-text-summarization-nlp-project-with-aws-deployment-8e2d18b6caa7)
-- [Unveiling HR Insights: An Analytics Dashboard Built with SQL and Power BI](https://medium.com/@SVD.exe/unveiling-hr-insights-an-analytics-dashboard-built-with-sql-and-power-bi-822abb6fd2dd)
-- [Chicken Disease Classification: AI-Powered Poultry Health Detector](https://medium.com/@SVD.exe/chicken-disease-classification-a-deep-learning-approach-to-poultry-health-32d17b8033d7)
-- 
-<!-- BLOG-POST-LIST:END -->
+<img width="75%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=svdexe&hide_border=true&background=0D1117&stroke=5BCDEC&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_title=true&border_radius=10&card_width=400" />
 
-## 🎯 Goals for 2024
-- [ ] Contribute to 5 open-source Data Science projects
-- [ ] Publish 10 articles on Medium about Data Science and ML
-- [ ] Complete Advanced Machine Learning specialization
-- [ ] Develop a full-stack Data Science web application
+<br>
 
-<h3 align="center">💻 Check Out My Repos ⬇️</h3>
+<img width="85%" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=svdexe&theme=github_dark" />
+
+<br>
+
+<img width="85%" src="https://github-profile-trophy.vercel.app/?username=svdexe&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=8&row=1" />
+
+</div>
+
+## 🏆 Achievements & Experience
+
+<div align="center">
+<table>
+<tr>
+<td width="25%" align="center">
+
+**🎓 Education**
+<br>
+Master's Data Science
+<br>
+<sub>University of Adelaide</sub>
+<br>
+Bachelor's Electronics Eng.
+<br>
+<sub>University of Mumbai (8.84)</sub>
+
+</td>
+<td width="25%" align="center">
+
+**📜 Certifications**
+<br>
+Power BI Data Analyst (PL-300)
+<br>
+<sub>Microsoft Certified</sub>
+<br>
+IELTS 7.5
+<br>
+<sub>Academic English</sub>
+
+</td>
+<td width="25%" align="center">
+
+**💼 Experience**
+<br>
+Online Team Member
+<br>
+<sub>Woolworths Supermarkets</sub>
+<br>
+Frontend Developer
+<br>
+<sub>TCR Innovation</sub>
+
+</td>
+<td width="25%" align="center">
+
+**🏅 Recognition**
+<br>
+Global Citizens Scholarship
+<br>
+<sub>University of Adelaide</sub>
+<br>
+Academic Distinctions
+<br>
+<sub>Deep Learning & Data Science</sub>
+
+</td>
+</tr>
+</table>
+</div>
+
+## 📚 Medium Publications
+
+<div align="center">
+<table>
+<tr>
+<td width="33%">
+
+[![](https://img.shields.io/badge/📄_MLOps_NLP_Pipeline-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@SVD.exe/end-to-end-text-summarization-nlp-project-with-aws-deployment-8e2d18b6caa7)
+<br><sub>AWS + GitHub Actions</sub>
+
+</td>
+<td width="33%">
+
+[![](https://img.shields.io/badge/📊_HR_Analytics_Dashboard-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@SVD.exe/unveiling-hr-insights-an-analytics-dashboard-built-with-sql-and-power-bi-822abb6fd2dd)
+<br><sub>SQL + Power BI</sub>
+
+</td>
+<td width="33%">
+
+[![](https://img.shields.io/badge/🤖_AI_Health_Detection-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@SVD.exe/chicken-disease-classification-a-deep-learning-approach-to-poultry-health-32d17b8033d7)
+<br><sub>Deep Learning</sub>
+
+</td>
+</tr>
+</table>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=svdexe&style=for-the-badge&color=blue" alt=""/>
-</p>
+<div align="center">
 
-<p align="center">
-  <i>"Data is the new oil. It's valuable, but if unrefined it cannot really be used."</i>
-  <br>
-  - Clive Humby
-</p>
+#### ✨ Let's Build Something Amazing Together
+*From research breakthroughs to production deployments, I'm passionate about turning ideas into impact.*
 
-<p align="center">
-  <sub>Created with 🧠 by Shivam Dali</sub>
-</p>
+<a href="https://portfolio-svd-v1.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-More%20About%20Me-2962FF?style=for-the-badge&logoColor=white" height="38"/>
+</a>
+
+<br>
+
+<a href="https://linkedin.com/in/shivam-dali-86b0a1201" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="25"/>
+</a>
+<a href="https://medium.com/@SVD.exe" target="_blank">
+<img src="https://img.shields.io/badge/Medium-Follow-000000?style=flat-square&logo=medium&logoColor=white" height="25"/>
+</a>
+<a href="mailto:shivamdali@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" height="25"/>
+</a>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=svdexe&style=flat-square&color=5BCDEC&labelColor=0d1117" alt="Profile Views"/>
+
+*"Curiosity is the engine of achievement"*
+
+<sub>Made with 💝 in Adelaide, Australia 🇦🇺 | Shivam Dali © 2025</sub>
+
+</div>
