@@ -16,12 +16,15 @@
 
 ## 🧠 About Me:
 
-- 🎓 Currently pursuing a Master's in Data Science at Adelaide University
-- 💡 Passionate about turning data into actionable insights
-- 🌟 Constantly exploring new technologies in AI and ML
-- 🚀 Aspiring to revolutionize industries through data-driven solutions
-- 🌐 Love to collaborate on innovative projects
-- 📊 Transforming complex datasets into compelling visualizations
+- 🎓 **Master's in Data Science Graduate** from University of Adelaide *(Distinctions in Deep Learning, Data Taming & Decision Science)*
+- 💼 **ML Engineer** specializing in **NLP, Computer Vision & Cloud Deployment**
+- 🏆 **Microsoft Certified Power BI Data Analyst Associate (PL-300)** 
+- 💡 Bridging the gap between **complex data and actionable business insights**
+- 🌟 **Electronics Engineering** background providing unique problem-solving perspective
+- 🚀 Expertise in **End-to-End ML Development, Advanced Data Visualization & Cloud Deployment**
+- 🌐 Passionate about **collaborative problem-solving** and **transforming theoretical knowledge into practical solutions**
+- 🔬 **Research experience** in Adaptive Particle Swarm Optimization algorithms
+- 📍 **Adelaide, Australia** | Open to **Data Science, ML Engineer & Business Intelligence** opportunities
 
 ## 🛠 Skill Set:
 
@@ -37,20 +40,21 @@
       </div>
     </td>
     <td valign="top" width="33%">
-      <h3 align="center">Data Visualization</h3>
+      <h3 align="center">Data Visualization & BI</h3>
       <div align="center">
         <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
         <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/tableau-icon.svg" alt="tableau" width="40" height="40"/>
         <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="power-bi" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/plotly/plotly.py/master/packages/python/plotly/package_data/plotly.png" alt="plotly" width="40" height="40"/>
       </div>
     </td>
     <td valign="top" width="33%">
-      <h3 align="center">Tools & Technologies</h3>
+      <h3 align="center">Web Dev & Deployment</h3>
       <div align="center">
         <img src="https://skillicons.dev/icons?i=git,docker,mysql,vscode&perline=4" />
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/>
-        <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/>
-        <img src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-icon.svg" alt="spark" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/>
       </div>
     </td>
   </tr>
@@ -59,17 +63,46 @@
 ## 🚀 Featured Projects
 
 <div align="center">
+  <a href="https://github.com/svdexe/Portfolio_SVD_V1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Portfolio_SVD_V1&theme=nord&cache_seconds=0" alt="Portfolio Website">
+  </a>
+  <a href="https://github.com/svdexe/Adaptive-Particle-Swarm-Optimization-on-CEC2017">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Adaptive-Particle-Swarm-Optimization-on-CEC2017&theme=nord&cache_seconds=0" alt="Adaptive PSO Research">
+  </a>
+  <a href="https://github.com/svdexe/PowerBI-Spotify-Data-Analysis">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=PowerBI-Spotify-Data-Analysis&theme=nord&cache_seconds=0" alt="Spotify Analytics Dashboard">
+  </a>
+  <a href="https://github.com/svdexe/IPL_Win_Probability_Prediction">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=IPL_Win_Probability_Prediction&theme=nord&cache_seconds=0" alt="IPL Prediction System">
+  </a>
+  <a href="https://github.com/svdexe/Book_Recommendation_System">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Book_Recommendation_System&theme=nord&cache_seconds=0" alt="Book Recommendation Engine">
+  </a>
   <a href="https://github.com/svdexe/NLP_TextSummarizer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=NLP_TextSummarizer&theme=nord&cache_seconds=0" alt="NLP Text Summarizer">
   </a>
-  <a href="https://github.com/svdexe/Chicken_Disease_Classification">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Chicken_Disease_Classification&theme=nord&cache_seconds=0" alt="Chicken Disease Classification">
-  </a>
-  <a href="https://github.com/svdexe/PowerBI-MySQL-HR_Dashboard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=PowerBI-MySQL-HR_Dashboard&theme=nord" alt="PowerBI-MySQL-HR_Dashboard">
-  </a>
 </div>
 
+## 💼 Professional Experience Highlights
+- **📊 Data Analytics**: Online inventory management with 98% on-time dispatch rate at Woolworths
+- **💻 Web Development**: Frontend development internship with 11+ projects at TCR Innovation  
+- **🔬 Research**: Traffic management model achieving 95% accuracy with Random Forest Algorithm
+- **📈 Business Impact**: 40% reduction in HR decision-making time through automated dashboards
+- **🎓 Academic Excellence**: Distinctions in Deep Learning, Data Taming & Decision Science
+
+## 🔬 Research & Innovation
+
+### 🎯 Adaptive Particle Swarm Optimization Research
+- **Novel Algorithm Development**: Created APSO with dynamic parameter adjustment
+- **Comprehensive Benchmarking**: Tested on 30 CEC2017 functions across multiple dimensions
+- **Performance Gains**: 15-40% improvement over standard PSO
+- **Real-world Application**: Applied to bin packing optimization problems
+
+### 📊 Advanced Analytics Projects
+- **Interactive Dashboards**: PowerBI visualizations with DAX calculations
+- **Recommendation Systems**: Collaborative filtering and content-based approaches
+- **Predictive Models**: Sports analytics with 85%+ accuracy
+- **Web Applications**: Full-stack ML deployment with Flask and Streamlit
 
 ## 📊 GitHub Stats:
 <p align="center">
@@ -99,6 +132,9 @@
 
 ## 🌐 Connect with me:
 <p align="center">
+  <a href="https://github.com/svdexe/Portfolio_SVD_V1" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio%20Website-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
   <a href="https://www.linkedin.com/in/shivam-dali-86b0a1201/" target="_blank">
     <img src="https://img.shields.io/badge/-Shivam%20Dali-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
@@ -110,19 +146,42 @@
   </a>
 </p>
 
-## 📚 Latest Blog Posts
+## 📚 Latest Blog Posts & Publications
 <!-- BLOG-POST-LIST:START -->
 - [MLOps-Driven NLP for Intelligent Text Condensation with AWS and GitHub Actions Integration](https://medium.com/@SVD.exe/end-to-end-text-summarization-nlp-project-with-aws-deployment-8e2d18b6caa7)
 - [Unveiling HR Insights: An Analytics Dashboard Built with SQL and Power BI](https://medium.com/@SVD.exe/unveiling-hr-insights-an-analytics-dashboard-built-with-sql-and-power-bi-822abb6fd2dd)
 - [Chicken Disease Classification: AI-Powered Poultry Health Detector](https://medium.com/@SVD.exe/chicken-disease-classification-a-deep-learning-approach-to-poultry-health-32d17b8033d7)
-- 
+- [Adaptive Particle Swarm Optimization: Research Paper (University of Adelaide)](https://github.com/svdexe/Adaptive-Particle-Swarm-Optimization-on-CEC2017)
 <!-- BLOG-POST-LIST:END -->
 
-## 🎯 Goals for 2024
-- [ ] Contribute to 5 open-source Data Science projects
-- [ ] Publish 10 articles on Medium about Data Science and ML
-- [ ] Complete Advanced Machine Learning specialization
-- [ ] Develop a full-stack Data Science web application
+## 🏆 Recent Achievements
+- 🎓 **Master's in Data Science Graduate** (Jan 2025) - University of Adelaide
+- 🏅 **Microsoft Certified Power BI Data Analyst Associate (PL-300)** - Industry certification
+- 🔬 **Research Publication**: Adaptive PSO algorithm with 15-40% performance improvement
+- 🎯 **Portfolio Launch**: Modern data science portfolio deployed on Vercel
+- 📊 **Analytics Projects**: 5+ new interactive dashboards and ML applications
+- 🏏 **Sports Analytics**: IPL prediction system with 85%+ accuracy
+- 📚 **Recommendation Systems**: Advanced ML models for books and movies
+- 🎵 **Music Analytics**: Comprehensive Spotify listening pattern analysis
+- 🏆 **Global Citizens Scholarship** recipient - University of Adelaide
+- 🌟 **40% reduction in HR decision-making time** through automated Power BI dashboards
+
+## 🎯 Goals for 2025
+- [ ] **Industry Transition**: Secure Data Science/ML Engineer role in Australia
+- [ ] **Research Publication**: Publish Adaptive PSO research in peer-reviewed journal
+- [ ] **Open Source**: Contribute to 5+ high-impact data science projects
+- [ ] **Certification Growth**: Complete AWS Machine Learning specialty certification
+- [ ] **Platform Expansion**: Launch technical blog and speaking engagements
+- [ ] **Innovation Projects**: Develop real-time analytics platform for business intelligence
+
+## 🔧 Current Tech Stack
+**Core Languages**: Python, R, SQL, JavaScript, HTML/CSS  
+**ML/AI Frameworks**: Scikit-learn, TensorFlow, PyTorch, HuggingFace, NLTK, OpenCV  
+**Data & BI Tools**: PowerBI (PL-300 Certified), Tableau, Plotly, Seaborn, Matplotlib  
+**Web Technologies**: Flask, Streamlit, FastAPI, HTML5, CSS3, Vercel  
+**Databases**: MySQL, PostgreSQL, MongoDB  
+**Cloud & DevOps**: AWS, Docker, Git, CI/CD Pipelines  
+**Specializations**: DAX, Power Query, Model Deployment, NLP, Computer Vision  
 
 <h3 align="center">💻 Check Out My Repos ⬇️</h3>
 
@@ -139,5 +198,5 @@
 </p>
 
 <p align="center">
-  <sub>Created with 🧠 by Shivam Dali</sub>
+  <sub>Created with 🧠 by Shivam Dali | Adelaide, Australia 🇦🇺</sub>
 </p>
