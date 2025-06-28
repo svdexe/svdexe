@@ -284,7 +284,7 @@ Academic Distinctions
 <td width="33%">
 
 [![](https://img.shields.io/badge/📄_MLOps_NLP_Pipeline-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@SVD.exe/end-to-end-text-summarization-nlp-project-with-aws-deployment-8e2d18b6caa7)
-<br><sub>AWS + GitHub Actions</sub>
+<br><sub>AI ML Model + ML-Ops + AWS + GitHub Actions</sub>
 
 </td>
 <td width="33%">
@@ -296,7 +296,7 @@ Academic Distinctions
 <td width="33%">
 
 [![](https://img.shields.io/badge/🤖_AI_Health_Detection-Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@SVD.exe/chicken-disease-classification-a-deep-learning-approach-to-poultry-health-32d17b8033d7)
-<br><sub>Deep Learning</sub>
+<br><sub>CNN - ML-ops + AWS + GitHub Actions</sub>
 
 </td>
 </tr>
