@@ -110,6 +110,22 @@ class ShivamDali:
 
 </div>
 
+## 🌟 Key Skills & Expertise
+
+<div align="center">
+
+[![Research](https://img.shields.io/badge/🔬_Research-Adaptive%20Optimization-8A2BE2?style=flat-square)](https://github.com/svdexe/Adaptive-Particle-Swarm-Optimization-on-CEC2017)
+[![MLOps](https://img.shields.io/badge/🚀_MLOps-AWS%20Deployment-FF6B35?style=flat-square)](https://github.com/svdexe/NLP_TextSummarizer)
+[![Analytics](https://img.shields.io/badge/📊_Analytics-Business%20Intelligence-4CAF50?style=flat-square)](https://github.com/svdexe/PowerBI-Spotify-Data-Analysis)
+[![Web Development](https://img.shields.io/badge/🌐_Web%20Dev-Full%20Stack-E91E63?style=flat-square)](https://github.com/svdexe/Movie_recommendation_system)
+
+[![NLP](https://img.shields.io/badge/🤖_NLP-Text%20Summarization-009688?style=flat-square)](https://github.com/svdexe/NLP_TextSummarizer)
+[![Computer Vision](https://img.shields.io/badge/👁️_Vision-Image%20Classification-FF5722?style=flat-square)](https://github.com/svdexe/Chicken_Disease_Classification)
+[![Recommendation](https://img.shields.io/badge/🎯_RecSys-Collaborative%20Filtering-3F51B5?style=flat-square)](https://github.com/svdexe/Book_Recommendation_System)
+[![Prediction](https://img.shields.io/badge/📈_Prediction-Time%20Series-795548?style=flat-square)](https://github.com/svdexe/Fare_flight_prediction)
+
+</div>
+
 ## 🚀 Featured Projects
 
 <div align="center">
@@ -335,3 +351,8 @@ Academic Distinctions
 <sub>Made with 💝 in Adelaide, Australia 🇦🇺 | Shivam Dali © 2025</sub>
 
 </div>
+
+
+
+
+
