@@ -58,10 +58,10 @@
 
 ### 🗄️ Databases & Tools
 <a href="https://mysql.com/" target="_blank"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
-<a href="https://postgresql.org/" target="_blank"><img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
 <a href="https://git-scm.com/" target="_blank"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /></a>
 <a href="https://jupyter.org/" target="_blank"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" /></a>
 <a href="https://code.visualstudio.com/" target="_blank"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" /></a>
 
 </div>
 
@@ -86,7 +86,7 @@
 - 📈 User behavior trends and recommendation insights
 - 🏅 Microsoft PL-300 certification showcase project
 
-**Tech:** Power BI, DAX, Power Query, SQL, Excel
+**Tech:** Power BI, DAX, Power Query, SQL, Data Modeling
 
 </td>
 <td width="50%">
@@ -98,7 +98,7 @@
 - 🎯 Workforce planning & retention insights
 - 🔄 Complete ETL pipeline implementation
 
-**Tech:** Power BI, MySQL, SQL, DAX, Data Modeling
+**Tech:** Power BI, MySQL, SQL, DAX, Data Modeling, Excel
 
 </td>
 </tr>
@@ -112,7 +112,7 @@
 - 🏛️ University of Adelaide Master's Research Project
 - 📈 Novel algorithm with real-world applications
 
-**Tech:** Python, NumPy, Matplotlib, Algorithm Design
+**Tech:** Python, NumPy, Matplotlib, Optimization Algorithms
 
 </td>
 <td width="50%">
@@ -124,7 +124,7 @@
 - 🚀 80% reduction in text processing time
 - 📊 Competitive ROUGE scores & scalable architecture
 
-**Tech:** HuggingFace, Transformers, AWS, Docker, FastAPI
+**Tech:** Python, HuggingFace, Transformers, AWS, Docker, FastAPI, GitHub Actions
 
 </td>
 </tr>
@@ -135,7 +135,7 @@
 **🔬 Computer Vision for Agriculture**
 - 🎯 Deep learning model for poultry health detection • 📱 End-to-end deployment with user-friendly interface • 🏥 Real-world agricultural application • ⚡ High accuracy disease classification system
 
-**Tech:** TensorFlow, CNN, Computer Vision, Deep Learning, Streamlit
+**Tech:** Python, TensorFlow, Keras, CNN, Computer Vision, OpenCV, Streamlit
 
 </td>
 </tr>
@@ -143,26 +143,14 @@
 
 <div align="center">
 
-### 🎮 **Additional ML Projects**
+### 🎮 **Other ML Projects**
 
-<a href="https://github.com/svdexe/Portfolio_SVD_V1" target="_blank"><img src="https://img.shields.io/badge/🌐_Portfolio_Website-FF6B6B?style=for-the-badge" alt="Portfolio Website" /></a>
-<a href="https://github.com/svdexe/IPL_Win_Probability_Prediction" target="_blank"><img src="https://img.shields.io/badge/🏏_IPL_Predictor-4ECDC4?style=for-the-badge" alt="IPL Predictor" /></a>
-<a href="https://github.com/svdexe/Book_Recommendation_System" target="_blank"><img src="https://img.shields.io/badge/📚_Book_Recommender-45B7D1?style=for-the-badge" alt="Book Recommender" /></a>
-<a href="https://github.com/svdexe/Fare_flight_prediction" target="_blank"><img src="https://img.shields.io/badge/✈️_Flight_Predictor-96CEB4?style=for-the-badge" alt="Flight Fare Predictor" /></a>
-<a href="https://github.com/svdexe/Movie_recommendation_system" target="_blank"><img src="https://img.shields.io/badge/🎬_Movie_Recommender-FFEAA7?style=for-the-badge" alt="Movie Recommender" /></a>
-<a href="https://github.com/svdexe/First_Innings_Score_Predictor" target="_blank"><img src="https://img.shields.io/badge/🏏_Score_Predictor-DDA0DD?style=for-the-badge" alt="Cricket Score Predictor" /></a>
-
-</div>
-
-<div align="center">
-
-### 🎮 **More Amazing Projects**
-
-[![Flight Fare Predictor](https://img.shields.io/badge/✈️_Flight_Fare_Predictor-FF6B6B?style=for-the-badge)](https://github.com/svdexe/Fare_flight_prediction)
-[![Movie Recommender](https://img.shields.io/badge/🎬_Movie_Recommender-4ECDC4?style=for-the-badge)](https://github.com/svdexe/Movie_recommendation_system)
-[![Cricket Score Predictor](https://img.shields.io/badge/🏏_Score_Predictor-45B7D1?style=for-the-badge)](https://github.com/svdexe/First_Innings_Score_Predictor)
-[![Chicken Disease Classifier](https://img.shields.io/badge/🐔_Disease_Classifier-96CEB4?style=for-the-badge)](https://github.com/svdexe/Chicken_Disease_Classification)
-[![HR Analytics Dashboard](https://img.shields.io/badge/👥_HR_Dashboard-FFEAA7?style=for-the-badge)](https://github.com/svdexe/PowerBI-MySQL-HR_Dashboard)
+<a href="https://portfolio-svd-v1.vercel.app" target="_blank"><img src="https://img.shields.io/badge/🌟_Live_Portfolio-FF6B6B?style=flat-square" alt="Portfolio Website" /></a>
+<a href="https://github.com/svdexe/IPL_Win_Probability_Prediction" target="_blank"><img src="https://img.shields.io/badge/🏏_IPL_Predictor-4ECDC4?style=flat-square" alt="IPL Predictor" /></a>
+<a href="https://github.com/svdexe/Book_Recommendation_System" target="_blank"><img src="https://img.shields.io/badge/📚_Book_Engine-45B7D1?style=flat-square" alt="Book Recommender" /></a>
+<a href="https://github.com/svdexe/Fare_flight_prediction" target="_blank"><img src="https://img.shields.io/badge/✈️_Flight_Fare-96CEB4?style=flat-square" alt="Flight Fare Predictor" /></a>
+<a href="https://github.com/svdexe/Movie_recommendation_system" target="_blank"><img src="https://img.shields.io/badge/🎬_Movie_System-FFEAA7?style=flat-square" alt="Movie Recommender" /></a>
+<a href="https://github.com/svdexe/First_Innings_Score_Predictor" target="_blank"><img src="https://img.shields.io/badge/🏏_Cricket_Score-DDA0DD?style=flat-square" alt="Cricket Score Predictor" /></a>
 
 </div>
 
@@ -177,6 +165,7 @@
 [![HR Analytics Dashboard](https://img.shields.io/badge/👥_HR_Dashboard-FFEAA7?style=for-the-badge)](https://github.com/svdexe/PowerBI-MySQL-HR_Dashboard)
 
 </div>
+
 
 ---
 
@@ -204,24 +193,22 @@
 
 ---
 
-## 🎯 Professional Highlights
+## 🎯 Professional Impact
 
 <div align="center">
-
-### 💼 **Career Impact**
-
-</div>
 
 ```
 🎓 Master's in Data Science (University of Adelaide) | Distinctions in Deep Learning, Data Taming & Decision Science
 🏆 Microsoft Certified Power BI Data Analyst Associate (PL-300) | Industry Recognition  
-📊 40% reduction in HR decision-making time | Automated Power BI dashboards impact
+📊 40% reduction in HR decision-making time | Automated Power BI dashboards
 ⚡ 98% on-time dispatch rate | Woolworths Supermarkets operational excellence  
-🔬 15-40% algorithm performance improvement | Adaptive PSO research contribution
-🚀 80% text processing time reduction | NLP optimization achievement
-📈 95% traffic management accuracy | Random Forest implementation (VIT Mumbai internship)
-💻 11+ web development projects | TCR Innovation internship completion
+🔬 15-40% algorithm performance improvement | Adaptive PSO research
+🚀 80% text processing time reduction | NLP optimization with PEGASUS
+📈 95% traffic management accuracy | Random Forest implementation
+💻 11+ web development projects | Frontend development expertise
 ```
+
+</div>
 
 ---
 
@@ -242,20 +229,13 @@
 
 ---
 
-## 📈 2025 Roadmap
+## 📈 2025 Goals
 
-<div align="center">
-
-### 🎯 **Goals & Aspirations**
-
-</div>
-
-- 🎯 **Industry Transition**: Secure Data Science/ML Engineer role in Australia
-- 📚 **Research Excellence**: Complete Adaptive PSO research project documentation  
-- 🌟 **Open Source**: Contribute to 5+ high-impact data science projects
-- ☁️ **Cloud Mastery**: Complete AWS Machine Learning specialty certification
-- 🎤 **Knowledge Sharing**: Launch technical blog and speaking engagements
-- 🚀 **Innovation**: Develop real-time analytics platform for business intelligence-reviewed journal
+- 🎯 **Industry Role**: Secure Data Science/ML Engineer position in Australia
+- 📚 **Research**: Complete Adaptive PSO research documentation  
+- ☁️ **Cloud Skills**: AWS Machine Learning specialty certification
+- 🌟 **Open Source**: Contribute to data science community projects
+- 🎤 **Content**: Launch technical blog and knowledge sharing-reviewed journal
 - 🌟 **Open Source**: Contribute to 5+ high-impact data science projects
 - ☁️ **Cloud Mastery**: Complete AWS Machine Learning specialty certification
 - 🎤 **Knowledge Sharing**: Launch technical blog and speaking engagements
@@ -267,7 +247,7 @@
 
 <div align="center">
 
-<a href="https://github.com/svdexe/Portfolio_SVD_V1" target="_blank"><img src="https://img.shields.io/badge/-Portfolio%20Website-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" /></a>
+<a href="https://portfolio-svd-v1.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-Portfolio%20Website-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Website" /></a>
 <a href="https://www.linkedin.com/in/shivam-dali-86b0a1201/" target="_blank"><img src="https://img.shields.io/badge/-Shivam%20Dali-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/svdexe" target="_blank"><img src="https://img.shields.io/badge/-svdexe-181717?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" /></a>
 <a href="https://medium.com/@SVD.exe" target="_blank"><img src="https://img.shields.io/badge/-@SVD.exe-12100E?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium" /></a>
