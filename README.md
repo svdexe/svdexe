@@ -182,7 +182,7 @@ class ShivamDali:
 </td>
 <td width="33%">
 <a href="https://github.com/svdexe/Bank-Loan-Analytics-SQL_Research_And_Power-BI-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Bank-Loan-Analytics-SQL_Research_And_Power-BI-Dashboard&theme=nord&cache_seconds=0&hide_border=true" alt="Bank Loan Analytics">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Bank-Loan-Analytics&theme=nord&cache_seconds=0&hide_border=true" alt="Bank Loan Analytics">
 </a>
 </td>
 </tr>
