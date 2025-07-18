@@ -181,8 +181,8 @@ class ShivamDali:
 </a>
 </td>
 <td width="33%">
-<a href="https://github.com/svdexe/Bank-Loan-Analytics-SQL_Research_And_Power-BI-Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Bank-Loan-Analytics&theme=nord&cache_seconds=0&hide_border=true" alt="Bank Loan Analytics">
+<a href="[https://github.com/svdexe/PowerBI-MySQL-HR_Dashboard](https://github.com/svdexe/Bank-Loan-Analytics-SQL_Research_And_Power-BI-Dashboard)">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Bank-Loan-Analytics-SQL_Research_And_Power-BI-Dashboard&theme=nord&cache_seconds=0&hide_border=true" alt="BankLoanAnalysis">
 </a>
 </td>
 </tr>
