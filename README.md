@@ -170,14 +170,19 @@ class ShivamDali:
 **📊 Business Intelligence**
 <table>
 <tr>
-<td width="50%">
+<td width="33%">
 <a href="https://github.com/svdexe/PowerBI-Spotify-Data-Analysis">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=PowerBI-Spotify-Data-Analysis&theme=nord&cache_seconds=0&hide_border=true" alt="Spotify">
 </a>
 </td>
-<td width="50%">
+<td width="33%">
 <a href="https://github.com/svdexe/PowerBI-MySQL-HR_Dashboard">
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=PowerBI-MySQL-HR_Dashboard&theme=nord&cache_seconds=0&hide_border=true" alt="HR">
+</a>
+</td>
+<td width="33%">
+<a href="https://github.com/svdexe/Bank-Loan-Analytics-SQL_Research_And_Power-BI-Dashboard">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Bank-Loan-Analytics-SQL_Research_And_Power-BI-Dashboard&theme=nord&cache_seconds=0&hide_border=true" alt="Bank Loan Analytics">
 </a>
 </td>
 </tr>
