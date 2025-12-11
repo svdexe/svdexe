@@ -130,111 +130,256 @@ class ShivamDali:
 
 <div align="center">
 
-**🔬 Research & Optimization**
+### 🔬 Research & Optimization
+
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 <a href="https://github.com/svdexe/DS_RP_Part-B_ClusteringAnalysis_using_HeuristicOptimizationTechniques">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=DS_RP_Part-B_ClusteringAnalysis_using_HeuristicOptimizationTechniques&theme=nord&cache_seconds=0&hide_border=true" alt="Part B">
+<img src="https://img.shields.io/badge/Advanced%20Clustering%20Analysis-8A2BE2?style=for-the-badge&logo=python&logoColor=white" alt="Clustering"/>
+<br><br>
+<img src="https://img.shields.io/badge/100%25-Reliability%20Improvement-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/PSO%2FAPSO-Algorithms-blue?style=flat-square"/>
+<br>
+<sub><b>Heuristic Optimization Techniques</b></sub>
+<br>
+<sub>🔹 Python · Optimization · Research</sub>
 </a>
 </td>
-<td width="50%">
+<td width="50%" align="center">
 <a href="https://github.com/svdexe/Adaptive-Particle-Swarm-Optimization-on-CEC2017">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Adaptive-Particle-Swarm-Optimization-on-CEC2017&theme=nord&cache_seconds=0&hide_border=true" alt="Part A">
+<img src="https://img.shields.io/badge/Adaptive%20PSO%20on%20CEC2017-FF6B35?style=for-the-badge&logo=scipy&logoColor=white" alt="APSO"/>
+<br><br>
+<img src="https://img.shields.io/badge/CEC2017-Benchmarks-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Research-Publication%20Quality-red?style=flat-square"/>
+<br>
+<sub><b>Superior Convergence Performance</b></sub>
+<br>
+<sub>🔹 Algorithm Design · Performance Analysis</sub>
 </a>
 </td>
 </tr>
 </table>
 
-**🤖 Machine Learning & NLP**
+### 🤖 Machine Learning & NLP
+
 <table>
 <tr>
-<td width="33%">
+<td width="33%" align="center">
 <a href="https://github.com/svdexe/NLP_TextSummarizer">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=NLP_TextSummarizer&theme=nord&cache_seconds=0&hide_border=true" alt="NLP">
+<img src="https://img.shields.io/badge/NLP%20Text%20Summarizer-009688?style=for-the-badge&logo=tensorflow&logoColor=white" alt="NLP"/>
+<br><br>
+<img src="https://img.shields.io/badge/AWS-Deployed-orange?style=flat-square&logo=amazon-aws"/>
+<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue?style=flat-square&logo=github-actions"/>
+<br>
+<sub><b>End-to-End MLOps Pipeline</b></sub>
+<br>
+<sub>🔹 Transformers · AWS · Production</sub>
 </a>
 </td>
-<td width="33%">
+<td width="33%" align="center">
 <a href="https://github.com/svdexe/Chicken_Disease_Classification">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Chicken_Disease_Classification&theme=nord&cache_seconds=0&hide_border=true" alt="CNN">
+<img src="https://img.shields.io/badge/Disease%20Classification-FF5722?style=for-the-badge&logo=pytorch&logoColor=white" alt="CNN"/>
+<br><br>
+<img src="https://img.shields.io/badge/CNN-Deep%20Learning-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cloud-AWS%20EC2-orange?style=flat-square&logo=amazon-aws"/>
+<br>
+<sub><b>Computer Vision System</b></sub>
+<br>
+<sub>🔹 Image Classification · Deployment</sub>
 </a>
 </td>
-<td width="33%">
+<td width="33%" align="center">
 <a href="https://github.com/svdexe/Movie_recommendation_system">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Movie_recommendation_system&theme=nord&cache_seconds=0&hide_border=true" alt="RecSys">
+<img src="https://img.shields.io/badge/Movie%20Recommender-E91E63?style=for-the-badge&logo=streamlit&logoColor=white" alt="RecSys"/>
+<br><br>
+<img src="https://img.shields.io/badge/Content-Based%20Filtering-pink?style=flat-square"/>
+<img src="https://img.shields.io/badge/UI-Streamlit-red?style=flat-square&logo=streamlit"/>
+<br>
+<sub><b>Interactive Web Application</b></sub>
+<br>
+<sub>🔹 Recommendation System · Flask</sub>
 </a>
 </td>
 </tr>
 </table>
 
-**📊 Business Intelligence**
+### 📊 Business Intelligence
+
 <table>
 <tr>
-<td width="33%">
+<td width="33%" align="center">
 <a href="https://github.com/svdexe/BankLoanAnalytics_SQL_Research_And_PowerBI_Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=BankLoanAnalytics_SQL_Research_And_PowerBI_Dashboard&theme=nord&cache_seconds=0&hide_border=true" alt="HR">
+<img src="https://img.shields.io/badge/Bank%20Loan%20Analytics-4CAF50?style=for-the-badge&logo=powerbi&logoColor=white" alt="Bank"/>
+<br><br>
+<img src="https://img.shields.io/badge/%24435.8M-Portfolio%20Analysis-success?style=flat-square"/>
+<img src="https://img.shields.io/badge/Power%20BI-Certified-yellow?style=flat-square&logo=powerbi"/>
+<br>
+<sub><b>Financial Dashboard & Insights</b></sub>
+<br>
+<sub>🔹 SQL · Power BI · Analytics</sub>
 </a>
 </td>
-<td width="33%">
+<td width="33%" align="center">
 <a href="https://github.com/svdexe/PowerBI-Spotify-Data-Analysis">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=PowerBI-Spotify-Data-Analysis&theme=nord&cache_seconds=0&hide_border=true" alt="Spotify">
+<img src="https://img.shields.io/badge/Spotify%20Analytics-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify"/>
+<br><br>
+<img src="https://img.shields.io/badge/Music-Trends%20%26%20Patterns-green?style=flat-square&logo=spotify"/>
+<img src="https://img.shields.io/badge/Interactive-Dashboard-brightgreen?style=flat-square"/>
+<br>
+<sub><b>Music Data Exploration</b></sub>
+<br>
+<sub>🔹 Data Visualization · Power BI</sub>
 </a>
 </td>
-<td width="33%">
+<td width="33%" align="center">
 <a href="https://github.com/svdexe/PowerBI-MySQL-HR_Dashboard">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=PowerBI-MySQL-HR_Dashboard&theme=nord&cache_seconds=0&hide_border=true" alt="HR">
+<img src="https://img.shields.io/badge/HR%20Analytics-2196F3?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="HR"/>
+<br><br>
+<img src="https://img.shields.io/badge/22K%2B-Employee%20Records-blue?style=flat-square"/>
+<img src="https://img.shields.io/badge/MySQL-Integration-blue?style=flat-square&logo=mysql"/>
+<br>
+<sub><b>Workforce Intelligence System</b></sub>
+<br>
+<sub>🔹 MySQL · Power BI · HR Metrics</sub>
 </a>
 </td>
 </tr>
-</table> 
+</table>
 
-**🎯 Predictive Analytics**
+### 🎯 Predictive Analytics
+
 <table>
 <tr>
-<td width="33%">
+<td width="33%" align="center">
 <a href="https://github.com/svdexe/Fare_flight_prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Fare_flight_prediction&theme=nord&cache_seconds=0&hide_border=true" alt="Flight">
+<img src="https://img.shields.io/badge/Flight%20Fare%20Prediction-795548?style=for-the-badge&logo=python&logoColor=white" alt="Flight"/>
+<br><br>
+<img src="https://img.shields.io/badge/ML-Regression-brown?style=flat-square"/>
+<img src="https://img.shields.io/badge/Flask-Deployed-lightgrey?style=flat-square&logo=flask"/>
+<br>
+<sub><b>Real-Time Price Predictions</b></sub>
+<br>
+<sub>🔹 Machine Learning · Web App</sub>
 </a>
 </td>
-<td width="33%">
+<td width="33%" align="center">
 <a href="https://github.com/svdexe/IPL_Win_Probability_Prediction">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=IPL_Win_Probability_Prediction&theme=nord&cache_seconds=0&hide_border=true" alt="IPL">
+<img src="https://img.shields.io/badge/IPL%20Win%20Predictor-FF9800?style=for-the-badge&logo=cricket&logoColor=white" alt="IPL"/>
+<br><br>
+<img src="https://img.shields.io/badge/Ensemble-Methods-orange?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sports-Analytics-red?style=flat-square"/>
+<br>
+<sub><b>Live Cricket Match Analysis</b></sub>
+<br>
+<sub>🔹 Predictive Modeling · Real-Time</sub>
 </a>
 </td>
-<td width="33%">
+<td width="33%" align="center">
 <a href="https://github.com/svdexe/Book_Recommendation_System">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=svdexe&repo=Book_Recommendation_System&theme=nord&cache_seconds=0&hide_border=true" alt="Books">
+<img src="https://img.shields.io/badge/Book%20Recommender-3F51B5?style=for-the-badge&logo=goodreads&logoColor=white" alt="Books"/>
+<br><br>
+<img src="https://img.shields.io/badge/270K%2B-Books%20Dataset-purple?style=flat-square"/>
+<img src="https://img.shields.io/badge/Collaborative-Filtering-indigo?style=flat-square"/>
+<br>
+<sub><b>Personalized Recommendations</b></sub>
+<br>
+<sub>🔹 RecSys · Machine Learning</sub>
 </a>
 </td>
 </tr>
 </table>
 
 </div>
+
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api?username=svdexe&show_icons=true&count_private=true&hide_border=true&title_color=5BCDEC&icon_color=5BCDEC&text_color=c9d1d9&bg_color=0d1117&hide_title=true&border_radius=10&card_width=350" />
-<img width="49%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svdexe&layout=compact&hide_border=true&title_color=5BCDEC&text_color=c9d1d9&bg_color=0d1117&langs_count=8&hide_title=true&border_radius=10&card_width=350" />
+<!-- Glowing Stats Cards -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=svdexe&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=5BCDEC&icon_color=00d9ff&text_color=c9d1d9&ring_color=5BCDEC">
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=svdexe&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=5BCDEC&icon_color=00d9ff&text_color=c9d1d9&ring_color=5BCDEC" alt="GitHub Stats">
+</picture>
 
-<br>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=svdexe&bg_color=0d1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true&height=350&custom_title=Contribution%20Activity&title_color=5BCDEC"/>
-
-<br>
-
-<img width="75%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=svdexe&hide_border=true&background=0D1117&stroke=5BCDEC&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC&sideLabels=5BCDEC&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_title=true&border_radius=10&card_width=400" />
-
-<br>
-
-<img width="85%" height="200px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=svdexe&theme=github_dark" />
-
-<br>
-
-<img width="85%" src="https://github-profile-trophy.vercel.app/?username=svdexe&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=8&row=1" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=svdexe&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=5BCDEC&text_color=c9d1d9">
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svdexe&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=5BCDEC&text_color=c9d1d9" alt="Languages">
+</picture>
 
 </div>
+
+<div align="center">
+
+<!-- Animated Contribution Snake -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
+<div align="center">
+
+<!-- Glowing Streak Stats -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=svdexe&theme=radical&hide_border=true&background=0D1117&ring=5BCDEC&fire=00d9ff&currStreakLabel=5BCDEC&sideLabels=5BCDEC" alt="GitHub Streak">
+
+</div>
+
+<div align="center">
+
+<!-- 3D Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=svdexe&custom_title=Contribution%20Graph&bg_color=0d1117&color=5BCDEC&line=00d9ff&point=5BCDEC&area_color=5BCDEC&area=true&hide_border=true&radius=10" width="95%" alt="Contribution Graph">
+
+</div>
+
+<div align="center">
+
+<!-- GitHub Metrics with Achievements -->
+<img src="https://metrics.lecoq.io/svdexe?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Australia%2FAdelaide&config.display=large" alt="Achievements">
+
+</div>
+
+<div align="center">
+
+<!-- Tech Stack 3D -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=svdexe&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=5BCDEC&text_color=c9d1d9" width="47%" alt="Coding Stats">
+
+<!-- Profile Trophy -->
+<img src="https://github-profile-trophy.vercel.app/?username=svdexe&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies">
+
+</div>
+
+<div align="center">
+  
+<!-- Holopin Badges -->
+<img src="https://holopin.me/svdexe" alt="Holopin badges">
+
+</div>
+
+---
+
+<div align="center">
+
+### 🔥 Current Streak & Activity
+
+<img src="https://github-readme-stats.vercel.app/api?username=svdexe&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=5BCDEC&icon_color=00d9ff&text_color=c9d1d9&custom_title=Overall%20Stats&include_all_commits=true&line_height=25" width="49%" alt="Overall Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svdexe&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=5BCDEC&text_color=c9d1d9&langs_count=10&hide=html,css" width="49%" alt="Top Languages"/>
+
+</div>
+
+<div align="center">
+
+<!-- Profile Views Counter with Glowing Effect -->
+<img src="https://komarev.com/ghpvc/?username=svdexe&style=for-the-badge&color=5BCDEC&label=PROFILE+VIEWS" alt="Profile Views"/>
+
+</div>
+
+
+
 
 ## 🏆 Achievements & Experience
 
