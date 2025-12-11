@@ -298,72 +298,45 @@ class ShivamDali:
 
 <div align="center">
 
-<!-- Using GitHub's Native Language Stats (No External API) -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=svdexe&theme=github_dark)
+<!-- Compact Neon Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=header&animation=twinkling" width="100%"/>
 
 </div>
 
-<br/>
-
 <div align="center">
 
-<!-- Alternative Stats Provider -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=svdexe&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=svdexe&theme=github_dark)
+<!-- Compact Stats Row -->
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=svdexe&theme=monokai"/>
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=svdexe&theme=monokai&utcOffset=10.5"/>
 
 </div>
 
-<br/>
-
 <div align="center">
 
-<!-- Repos Per Language -->
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=svdexe&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=svdexe&theme=github_dark)
+<!-- Compact Language Stats -->
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=svdexe&theme=monokai"/>
+<img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=svdexe&theme=monokai"/>
 
 </div>
 
-<br/>
-
 <div align="center">
 
-<!-- Streak Stats (Different Provider) -->
-![](https://nirzak-streak-stats.vercel.app?user=svdexe&theme=dark&hide_border=true&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC)
+<!-- Compact Streak -->
+<img src="https://nirzak-streak-stats.vercel.app?user=svdexe&theme=radical&hide_border=true&background=272822&stroke=00d9ff&ring=00d9ff&fire=ff6d00&currStreakLabel=00d9ff" width="70%"/>
 
 </div>
 
-<br/>
-
 <div align="center">
 
-<!-- Profile Views -->
-![](https://komarev.com/ghpvc/?username=svdexe&color=5BCDEC&style=flat-square)
+<!-- Compact Views Counter -->
+<img src="https://komarev.com/ghpvc/?username=svdexe&color=00d9ff&style=flat-square&label=VIEWS&labelColor=272822"/>
 
 </div>
 
----
-
-### 📈 Quick Stats
-
-```text
-🔥 Total Repositories: 50+
-⭐ Total Stars Earned: 100+
-🤝 Total Contributions: 1000+
-📊 Most Used Language: Python
-```
-
 <div align="center">
 
-**Languages & Tools:**
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+<!-- Compact Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=60&section=footer" width="100%"/>
 
 </div>
 
