@@ -298,86 +298,74 @@ class ShivamDali:
 
 <div align="center">
 
-<!-- Glowing Stats Cards -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=svdexe&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=5BCDEC&icon_color=00d9ff&text_color=c9d1d9&ring_color=5BCDEC">
-  <img height="195" src="https://github-readme-stats.vercel.app/api?username=svdexe&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=5BCDEC&icon_color=00d9ff&text_color=c9d1d9&ring_color=5BCDEC" alt="GitHub Stats">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=svdexe&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=5BCDEC&text_color=c9d1d9">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=svdexe&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=5BCDEC&text_color=c9d1d9" alt="Languages">
-</picture>
+<!-- Using GitHub's Native Language Stats (No External API) -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=svdexe&theme=github_dark)
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<!-- Animated Contribution Snake -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-</picture>
+<!-- Alternative Stats Provider -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=svdexe&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=svdexe&theme=github_dark)
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<!-- Glowing Streak Stats -->
-<img src="https://nirzak-streak-stats.vercel.app/?user=svdexe&theme=radical&hide_border=true&background=0D1117&ring=5BCDEC&fire=00d9ff&currStreakLabel=5BCDEC&sideLabels=5BCDEC" alt="GitHub Streak">
+<!-- Repos Per Language -->
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=svdexe&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=svdexe&theme=github_dark)
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<!-- 3D Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=svdexe&custom_title=Contribution%20Graph&bg_color=0d1117&color=5BCDEC&line=00d9ff&point=5BCDEC&area_color=5BCDEC&area=true&hide_border=true&radius=10" width="95%" alt="Contribution Graph">
+<!-- Streak Stats (Different Provider) -->
+![](https://nirzak-streak-stats.vercel.app?user=svdexe&theme=dark&hide_border=true&background=0D1117&ring=5BCDEC&fire=5BCDEC&currStreakLabel=5BCDEC)
 
 </div>
 
-<div align="center">
-
-<!-- GitHub Metrics with Achievements -->
-<img src="https://metrics.lecoq.io/svdexe?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=Australia%2FAdelaide&config.display=large" alt="Achievements">
-
-</div>
+<br/>
 
 <div align="center">
 
-<!-- Tech Stack 3D -->
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=svdexe&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=5BCDEC&text_color=c9d1d9" width="47%" alt="Coding Stats">
-
-<!-- Profile Trophy -->
-<img src="https://github-profile-trophy.vercel.app/?username=svdexe&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies">
-
-</div>
-
-<div align="center">
-  
-<!-- Holopin Badges -->
-<img src="https://holopin.me/svdexe" alt="Holopin badges">
+<!-- Profile Views -->
+![](https://komarev.com/ghpvc/?username=svdexe&color=5BCDEC&style=flat-square)
 
 </div>
 
 ---
 
+### 📈 Quick Stats
+
+```text
+🔥 Total Repositories: 50+
+⭐ Total Stars Earned: 100+
+🤝 Total Contributions: 1000+
+📊 Most Used Language: Python
+```
+
 <div align="center">
 
-### 🔥 Current Streak & Activity
+**Languages & Tools:**
 
-<img src="https://github-readme-stats.vercel.app/api?username=svdexe&show_icons=true&count_private=true&hide_border=true&theme=radical&bg_color=0d1117&title_color=5BCDEC&icon_color=00d9ff&text_color=c9d1d9&custom_title=Overall%20Stats&include_all_commits=true&line_height=25" width="49%" alt="Overall Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=svdexe&layout=compact&hide_border=true&theme=radical&bg_color=0d1117&title_color=5BCDEC&text_color=c9d1d9&langs_count=10&hide=html,css" width="49%" alt="Top Languages"/>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 </div>
-
-<div align="center">
-
-<!-- Profile Views Counter with Glowing Effect -->
-<img src="https://komarev.com/ghpvc/?username=svdexe&style=for-the-badge&color=5BCDEC&label=PROFILE+VIEWS" alt="Profile Views"/>
-
-</div>
-
 
 
 
